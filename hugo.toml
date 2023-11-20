@@ -13,10 +13,10 @@ style = "github-dark"
 [params]
   author = "Alfred KUATE"
   info = "Developpeur Full-Stack"
-  description = "John Doe's personal website"
+  description = "@lfred Saker personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/user.jpg"
-  #gravatar = "john.doe@example.com"
+  avatarurl = "media/profil.jpg"
+  #gravatar = "a_kuatekuate@hetic.eu"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
@@ -51,6 +51,11 @@ style = "github-dark"
   weight = 2
   url = "https://www.linkedin.com/in/alfred-kuate"
 [[params.social]]
+  name = "Gmail"
+  icon = "fa fa-envelope fa-2x"
+  weight = 2
+  url = "a_kuatekuate@hetic.eu"
+[[params.social]]
   name = "Portfolio"
   icon = "fa fa-globe fa-2x"
   weight = 3
@@ -61,6 +66,10 @@ style = "github-dark"
   name = "Blog"
   weight = 1
   url  = "posts/"
+[[menu.main]]
+  name = "Projets"
+  weight = 1
+  url  = "projets/"
 [[menu.main]]
   name = "A propos"
   weight = 2
