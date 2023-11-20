@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://github.com/alfred-saker/ScareBlog/posts/post/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/posts/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/posts/post_autor/</loc>
+    <lastmod>2023-11-20T12:54:53+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/categories/</loc>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/tags/</loc>
+  </url>
+</urlset>
