@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/alfred-saker/ScareBlog'
 languagecode = "fr"
-title = 'My New Hugo Site'
+title = 'ScareBlog'
 theme = "hugo-coder"
 defaultcontentlanguage = "en"
 paginate = 20
@@ -11,11 +11,11 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
+  author = "Alfred KUATE"
+  info = "Developpeur Full-Stack"
   description = "John Doe's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/user.jpg"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
@@ -44,17 +44,17 @@ style = "github-dark"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/alfred-saker/"
 [[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://www.linkedin.com/in/alfred-kuate"
 [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
+  name = "Portfolio"
+  icon = "fa fa-globe fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://portfoliodev2023.netlify.app/"
 
 # Menu links
 [[menu.main]]
@@ -62,6 +62,10 @@ style = "github-dark"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "A propos"
   weight = 2
   url = "about/"
+[[menu.main]]
+  name = "Contact"
+  weight = 2
+  url = "contact/"
