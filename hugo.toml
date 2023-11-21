@@ -5,7 +5,7 @@ theme = "hugo-coder"
 defaultcontentlanguage = "en"
 paginate = 20
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "@alfred"
 
 [markup.highlight]
 style = "github-dark"
@@ -15,7 +15,8 @@ style = "github-dark"
   info = "Developpeur Full-Stack"
   description = "@lfred Saker personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "media/profil.jpg"
+  
+  avatarurl = "https://media.licdn.com/dms/image/D4E03AQF1A5oUMtodXA/profile-displayphoto-shrink_800_800/0/1675966672952?e=1706140800&v=beta&t=D9l4n6E7g-0YPEXqlCW_hJ95CfG8CTJNwlfxDfD6En8"
   #gravatar = "a_kuatekuate@hetic.eu"
 
   faviconSVG = "/img/favicon.svg"
@@ -69,7 +70,7 @@ style = "github-dark"
 [[menu.main]]
   name = "Projets"
   weight = 1
-  url  = "projets/"
+  url  = "project/"
 [[menu.main]]
   name = "A propos"
   weight = 2

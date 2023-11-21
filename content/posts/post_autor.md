@@ -16,11 +16,13 @@ series = []
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus varius nisi, sit amet eleifend magna blandit at. Etiam sem enim, gravida ac neque molestie, faucibus tincidunt leo. Ut lorem metus, sollicitudin in dui at, ultricies mollis ex. Nullam ut consequat lacus. Nulla tempus, libero non lacinia egestas, arcu odio cursus lectus, in elementum erat nunc id est. Quisque a consectetur massa. Cras feugiat placerat sem, ac malesuada ex tempus at.
+ Hugo est un générateur de sites Web statiques rapide et flexible écrit en Go. Contrairement aux systèmes de gestion de contenu dynamiques, Hugo crée des sites statiques, ce qui signifie que le contenu est généré avant d'être publié sur le serveur. Cela permet une performance optimale, une sécurité accrue, et une facilité de déploiement.
+
+GitHub Pages, quant à lui, est un service d'hébergement gratuit proposé par GitHub qui permet de publier des sites Web directement depuis des dépôts GitHub. Il prend en charge les sites Web statiques, en faisant de lui un choix idéal pour héberger des sites générés par Hugo.
 
 ## C'est quoi HUGO?
 
-Hugo est un générateur de site web statique.
+ Hugo est un générateur de sites Web open-source écrit en langage de programmation Go (golang). Il permet de créer des sites Web statiques, ce qui signifie que le contenu du site est généré à l'avance plutôt que d'être généré dynamiquement lorsqu'un utilisateur accède au site.
 
 ## Installation et Utilisation de HUGO
 

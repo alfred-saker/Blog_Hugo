@@ -2,13 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://github.com/alfred-saker/ScareBlog/project/projects/</loc>
+    <lastmod>2023-11-21T14:55:46+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/project/</loc>
+    <lastmod>2023-11-21T14:55:46+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/</loc>
+    <lastmod>2023-11-21T14:55:46+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/authors/alfred-saker/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/authors/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/tags/backend/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/tags/dev/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/tags/devops/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/tags/fullstack/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/tags/github/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/tags/hugo/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
     <loc>https://github.com/alfred-saker/ScareBlog/posts/post/</loc>
     <lastmod>2023-11-20T14:55:51+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/alfred-saker/ScareBlog/</loc>
+    <loc>https://github.com/alfred-saker/ScareBlog/posts/</loc>
     <lastmod>2023-11-20T14:55:51+01:00</lastmod>
   </url><url>
-    <loc>https://github.com/alfred-saker/ScareBlog/posts/</loc>
+    <loc>https://github.com/alfred-saker/ScareBlog/tags/</loc>
+    <lastmod>2023-11-20T14:55:51+01:00</lastmod>
+  </url><url>
+    <loc>https://github.com/alfred-saker/ScareBlog/tags/web/</loc>
     <lastmod>2023-11-20T14:55:51+01:00</lastmod>
   </url><url>
     <loc>https://github.com/alfred-saker/ScareBlog/posts/post_autor/</loc>
@@ -16,6 +52,6 @@
   </url><url>
     <loc>https://github.com/alfred-saker/ScareBlog/categories/</loc>
   </url><url>
-    <loc>https://github.com/alfred-saker/ScareBlog/tags/</loc>
+    <loc>https://github.com/alfred-saker/ScareBlog/series/</loc>
   </url>
 </urlset>
