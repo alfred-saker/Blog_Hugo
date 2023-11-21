@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backend on ScareBlog</title>
+    <link>https://github.com/alfred-saker/ScareBlog/tags/backend/</link>
+    <description>Recent content in Backend on ScareBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 20 Nov 2023 14:55:51 +0100</lastBuildDate>
+    <atom:link href="https://github.com/alfred-saker/ScareBlog/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me connaitre d&#39;avantage</title>
+      <link>https://github.com/alfred-saker/ScareBlog/posts/post/</link>
+      <pubDate>Mon, 20 Nov 2023 14:55:51 +0100</pubDate>
+      <guid>https://github.com/alfred-saker/ScareBlog/posts/post/</guid>
+      <description>A PROPOS DE MOILink to headingLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam luctus lectus risus, at tempus diam fringilla quis. Nam eu enim id eros semper tincidunt. Aenean nibh sapien, malesuada eu risus sed, consequat vestibulum dui. Aliquam ut velit sed massa ullamcorper dignissim. Phasellus ante ipsum, iaculis imperdiet dapibus nec, molestie ut sem. Donec quis dictum diam. Mauris sapien ligula, venenatis a imperdiet id, tempor vel lectus.</description>
+    </item>
+    <item>
+      <title>Resumé du cours de Hugo Github Pages</title>
+      <link>https://github.com/alfred-saker/ScareBlog/posts/post_autor/</link>
+      <pubDate>Mon, 20 Nov 2023 12:54:53 +0100</pubDate>
+      <guid>https://github.com/alfred-saker/ScareBlog/posts/post_autor/</guid>
+      <description>HUGO GITHUB PAGESLink to headingIntroductionLink to headingHugo est un générateur de sites Web statiques rapide et flexible écrit en Go. Contrairement aux systèmes de gestion de contenu dynamiques, Hugo crée des sites statiques, ce qui signifie que le contenu est généré avant d&amp;rsquo;être publié sur le serveur. Cela permet une performance optimale, une sécurité accrue, et une facilité de déploiement.
+GitHub Pages, quant à lui, est un service d&amp;rsquo;hébergement gratuit proposé par GitHub qui permet de publier des sites Web directement depuis des dépôts GitHub.</description>
+    </item>
+  </channel>
+</rss>

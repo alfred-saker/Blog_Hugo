@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on ScareBlog</title>
+    <link>https://github.com/alfred-saker/ScareBlog/authors/</link>
+    <description>Recent content in Authors on ScareBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 20 Nov 2023 14:55:51 +0100</lastBuildDate>
+    <atom:link href="https://github.com/alfred-saker/ScareBlog/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alfred Saker</title>
+      <link>https://github.com/alfred-saker/ScareBlog/authors/alfred-saker/</link>
+      <pubDate>Mon, 20 Nov 2023 14:55:51 +0100</pubDate>
+      <guid>https://github.com/alfred-saker/ScareBlog/authors/alfred-saker/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
