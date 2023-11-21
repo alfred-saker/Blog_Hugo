@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ScareBlog</title>
-    <link>https://github.com/alfred-saker/ScareBlog/categories/</link>
+    <link>https://github.com/alfred-saker/Blog_Hugo/categories/</link>
     <description>Recent content in Categories on ScareBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <atom:link href="https://github.com/alfred-saker/ScareBlog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/alfred-saker/Blog_Hugo/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

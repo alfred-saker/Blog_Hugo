@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on ScareBlog</title>
-    <link>https://github.com/alfred-saker/ScareBlog/project/</link>
+    <link>https://github.com/alfred-saker/Blog_Hugo/project/</link>
     <description>Recent content in Projects on ScareBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 21 Nov 2023 14:55:46 +0100</lastBuildDate>
-    <atom:link href="https://github.com/alfred-saker/ScareBlog/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/alfred-saker/Blog_Hugo/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mes projets réalisés</title>
-      <link>https://github.com/alfred-saker/ScareBlog/project/projects/</link>
+      <link>https://github.com/alfred-saker/Blog_Hugo/project/projects/</link>
       <pubDate>Tue, 21 Nov 2023 14:55:46 +0100</pubDate>
-      <guid>https://github.com/alfred-saker/ScareBlog/project/projects/</guid>
+      <guid>https://github.com/alfred-saker/Blog_Hugo/project/projects/</guid>
       <description>1. HETIC EVENT HUBLink to headingCategorie Education: Application web pour gestion des évènements à HETIC.Cela permettra aux étudiants d&amp;rsquo;être informés de tous les activités et évènements organisés par les différentes associations au sein de l&amp;rsquo;école.
 2. MINUSLink to headingCategorie Alimentation: Site web pour la vente de box panier repas dédié pour des personnes possédant des enfants ou des personnes qui en ont la charge.
 3. OTAKU~TEAM&amp;rsquo;S (BLOG OTAKU)Link to headingCategorie Blog: Nous plongeons dans l&amp;rsquo;univers des otaku (Fans de mangas).</description>

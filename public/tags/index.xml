@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ScareBlog</title>
-    <link>https://github.com/alfred-saker/ScareBlog/tags/</link>
+    <link>https://github.com/alfred-saker/Blog_Hugo/tags/</link>
     <description>Recent content in Tags on ScareBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 20 Nov 2023 14:55:51 +0100</lastBuildDate>
-    <atom:link href="https://github.com/alfred-saker/ScareBlog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/alfred-saker/Blog_Hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backend</title>
-      <link>https://github.com/alfred-saker/ScareBlog/tags/backend/</link>
+      <link>https://github.com/alfred-saker/Blog_Hugo/tags/backend/</link>
       <pubDate>Mon, 20 Nov 2023 14:55:51 +0100</pubDate>
-      <guid>https://github.com/alfred-saker/ScareBlog/tags/backend/</guid>
+      <guid>https://github.com/alfred-saker/Blog_Hugo/tags/backend/</guid>
       <description></description>
     </item>
     <item>
       <title>Dev</title>
-      <link>https://github.com/alfred-saker/ScareBlog/tags/dev/</link>
+      <link>https://github.com/alfred-saker/Blog_Hugo/tags/dev/</link>
       <pubDate>Mon, 20 Nov 2023 14:55:51 +0100</pubDate>
-      <guid>https://github.com/alfred-saker/ScareBlog/tags/dev/</guid>
+      <guid>https://github.com/alfred-saker/Blog_Hugo/tags/dev/</guid>
       <description></description>
     </item>
     <item>
       <title>Devops</title>
-      <link>https://github.com/alfred-saker/ScareBlog/tags/devops/</link>
+      <link>https://github.com/alfred-saker/Blog_Hugo/tags/devops/</link>
       <pubDate>Mon, 20 Nov 2023 14:55:51 +0100</pubDate>
-      <guid>https://github.com/alfred-saker/ScareBlog/tags/devops/</guid>
+      <guid>https://github.com/alfred-saker/Blog_Hugo/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>Fullstack</title>
-      <link>https://github.com/alfred-saker/ScareBlog/tags/fullstack/</link>
+      <link>https://github.com/alfred-saker/Blog_Hugo/tags/fullstack/</link>
       <pubDate>Mon, 20 Nov 2023 14:55:51 +0100</pubDate>
-      <guid>https://github.com/alfred-saker/ScareBlog/tags/fullstack/</guid>
+      <guid>https://github.com/alfred-saker/Blog_Hugo/tags/fullstack/</guid>
       <description></description>
     </item>
     <item>
       <title>Github</title>
-      <link>https://github.com/alfred-saker/ScareBlog/tags/github/</link>
+      <link>https://github.com/alfred-saker/Blog_Hugo/tags/github/</link>
       <pubDate>Mon, 20 Nov 2023 14:55:51 +0100</pubDate>
-      <guid>https://github.com/alfred-saker/ScareBlog/tags/github/</guid>
+      <guid>https://github.com/alfred-saker/Blog_Hugo/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://github.com/alfred-saker/ScareBlog/tags/hugo/</link>
+      <link>https://github.com/alfred-saker/Blog_Hugo/tags/hugo/</link>
       <pubDate>Mon, 20 Nov 2023 14:55:51 +0100</pubDate>
-      <guid>https://github.com/alfred-saker/ScareBlog/tags/hugo/</guid>
+      <guid>https://github.com/alfred-saker/Blog_Hugo/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
-      <link>https://github.com/alfred-saker/ScareBlog/tags/web/</link>
+      <link>https://github.com/alfred-saker/Blog_Hugo/tags/web/</link>
       <pubDate>Mon, 20 Nov 2023 14:55:51 +0100</pubDate>
-      <guid>https://github.com/alfred-saker/ScareBlog/tags/web/</guid>
+      <guid>https://github.com/alfred-saker/Blog_Hugo/tags/web/</guid>
       <description></description>
     </item>
   </channel>
